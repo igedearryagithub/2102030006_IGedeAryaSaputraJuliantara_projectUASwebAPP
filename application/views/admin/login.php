@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TokoBuah</title>
+    <title>SISKA</title>
     <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.8/css/all.css">
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
@@ -37,10 +37,10 @@ img {
                     </div>
                 </div>
                 
-                <div class="card bg-success">
+                <div class="card bg-white">
                     <div class="card-header">
-                    <img src="<?php echo base_url() ?>assets/images/logo-login.jpg" width="50%"  alt="User Image">
-                        <h4 class="card-title" style="text-align:center"></h4>
+                    <img src="<?php echo base_url() ?>assets/images/user6.png" width="50%"  alt="User Image">
+                        <h4 class="card-title" style="text-align:center">S I S K A</h4>
                     </div>
                     <div class="card-body">
                         <form method="post" action="<?php echo base_url('index.php/admin/login/aksi_login'); ?>" id="formlogin">
